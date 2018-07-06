@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundlessModelToObj", "BoundlessModelToObj\BoundlessModelToObj.csproj", "{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC095E96-0279-4E8A-8BCC-6EE69AF90467}
+	EndGlobalSection
+EndGlobal
