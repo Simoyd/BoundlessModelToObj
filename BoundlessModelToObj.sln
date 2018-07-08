@@ -5,16 +5,34 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundlessModelToObj", "BoundlessModelToObj\BoundlessModelToObj.csproj", "{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundlessMsgPackToJson", "BoundlessMsgPackToJson\BoundlessMsgPackToJson\BoundlessMsgPackToJson.csproj", "{5FC60A55-8ABF-4A4F-9883-0C8C8DCE5C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDSReader", "dds-reader\DDSReader.csproj", "{E8E2E010-DA59-4A99-8331-B986B84C0FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBitmapLib", "FastBitmap\FastBitmapLib.csproj", "{4BCC21C7-7AA5-4C80-BD42-AAB57D5284C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|x64.ActiveCfg = Debug|x64
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Debug|x64.Build.0 = Debug|x64
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|x64.ActiveCfg = Release|x64
+		{DC949D1F-9DB2-4C25-94FD-475CB88EFEBF}.Release|x64.Build.0 = Release|x64
+		{5FC60A55-8ABF-4A4F-9883-0C8C8DCE5C12}.Debug|x64.ActiveCfg = Debug|x64
+		{5FC60A55-8ABF-4A4F-9883-0C8C8DCE5C12}.Debug|x64.Build.0 = Debug|x64
+		{5FC60A55-8ABF-4A4F-9883-0C8C8DCE5C12}.Release|x64.ActiveCfg = Release|x64
+		{5FC60A55-8ABF-4A4F-9883-0C8C8DCE5C12}.Release|x64.Build.0 = Release|x64
+		{E8E2E010-DA59-4A99-8331-B986B84C0FD2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E8E2E010-DA59-4A99-8331-B986B84C0FD2}.Debug|x64.Build.0 = Debug|Any CPU
+		{E8E2E010-DA59-4A99-8331-B986B84C0FD2}.Release|x64.ActiveCfg = Release|Any CPU
+		{E8E2E010-DA59-4A99-8331-B986B84C0FD2}.Release|x64.Build.0 = Release|Any CPU
+		{4BCC21C7-7AA5-4C80-BD42-AAB57D5284C1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4BCC21C7-7AA5-4C80-BD42-AAB57D5284C1}.Debug|x64.Build.0 = Debug|Any CPU
+		{4BCC21C7-7AA5-4C80-BD42-AAB57D5284C1}.Release|x64.ActiveCfg = Release|Any CPU
+		{4BCC21C7-7AA5-4C80-BD42-AAB57D5284C1}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+[submodule "BoundlessMsgPackToJson"]
+	path = BoundlessMsgPackToJson
+	url = https://github.com/Simoyd/BoundlessMsgPackToJson.git
+[submodule "dds-reader"]
+	path = dds-reader
+	url = https://github.com/Simoyd/dds-reader.git
+[submodule "FastBitmap"]
+	path = FastBitmap
+	url = https://github.com/Simoyd/FastBitmap.git
